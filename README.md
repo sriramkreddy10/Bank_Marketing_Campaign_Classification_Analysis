@@ -49,7 +49,7 @@ Various Stages involved in this process are:
    4. Kernelized Support Vector Machine (rbf, poly, and linear) 
    5. Decision Tree
    6. Random Forest
-9. Deep Learning  using Keraclassifiers
+9. Deep Learning  using Keras classifiers
 
 ** Performed grid search for tuning the hyperparameters and cross-validation for assessing the effectiveness of each of the above models. 
 **  The results of the entire dataset are better for all models than the PCA models.
